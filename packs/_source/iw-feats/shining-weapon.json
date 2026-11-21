@@ -17,16 +17,15 @@
 			"value": 1
 		},
 		"actionType": {
-			"value": "action"
+			"value": "passive"
 		},
 		"actions": {
-			"value": 1
+			"value": null
 		},
 		"traits": {
 			"rarity": "common",
 			"value": [
 				"activation",
-				"concentrate",
 				"intelligent-weapon"
 			]
 		},
@@ -37,7 +36,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You can constantly glow with the effects of the <em>light</em> spell, in a color of your choice. As a single action with the concentrate trait you can stop or restart the glow.</p>"
+			"value": "<p>Like many of the most famous and powerful weapons, you can glow with a brilliant nimbus of color. You can constantly glow, with the effects of the <em>light</em> spell, glowing a color of your choice. You can spend a single action, which has the concentrate trait, to stop the glow or to start it again; this is an activation.</p>"
 		}
 	},
 	"effects": [],

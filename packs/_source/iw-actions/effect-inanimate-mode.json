@@ -1,0 +1,50 @@
+{
+	"_id": "sbnzW46iOv7BBpEy",
+	"name": "Effect: Inanimate Mode",
+	"type": "effect",
+	"img": "systems/pf2e/icons/equipment/weapons/dagger.webp",
+	"system": {
+		"slug": "effect-inanimate-mode",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg"
+			}
+		],
+		"description": {
+			"value": "<p>You're in inanimate mode and are off-guard. Remove this effect when you return to your normal state.</p>"
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"sustained": false,
+			"expiry": null
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"level": {
+			"value": 0
+		},
+		"badge": null
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!sbnzW46iOv7BBpEy"
+}

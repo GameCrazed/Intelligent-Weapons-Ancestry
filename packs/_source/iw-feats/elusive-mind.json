@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You can use Hidden Mind once per hour instead of once per day.</p>"
+			"value": "<p>You can shunt effects to your wielder more often than normal. You can use your Hidden Mind action once per hour, instead of once per day.</p>"
 		}
 	},
 	"effects": [],

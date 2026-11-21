@@ -41,7 +41,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain a +3 status bonus to attack and damage rolls with yourself for 1 minute, then Strike with yourself. In inanimate form or as an item you can't Strike, and you grant the bonus to your wielder instead.</p>"
+			"value": "<p>You attune yourself so perfectly to the way your weapon body is able to move and attack that you are able to grant yourself unparalleled offensive abilities when using yourself as a weapon, for a short time. You gain a +3 status bonus to attack rolls and damage rolls with yourself, which lasts for 1 minute. Then make a Strike with yourself. If you're in inanimate form or you're an item intelligent weapon, you can't make a Strike, and you grant the status bonus to your wielder instead of yourself.</p>"
 		}
 	},
 	"effects": [],

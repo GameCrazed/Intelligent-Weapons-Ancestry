@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain your choice of the disarm, shove or trip weapon traits.</p>"
+			"value": "<p>You've adjusted yourself through training and reshaping to take advantage of one of three possible hindering maneuvers. You gain your choice of the disarm, shove, or trip traits.</p>"
 		}
 	},
 	"effects": [],

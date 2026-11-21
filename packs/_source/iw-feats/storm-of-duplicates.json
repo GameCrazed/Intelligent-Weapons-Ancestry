@@ -41,7 +41,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Choose a 30-foot cone, 10-foot emanation or 60-foot line. Creatures in the area take damage equal to your weapon damage dice plus one additional weapon damage die, with no other bonuses, penalties or modifiers, with a basic Reflex save against the higher of your class DC and spell DC. A creature that critically fails also takes your critical specialization effect and extra deadly or fatal damage as if you had critically hit.</p>"
+			"value": "<p>You create a storm of duplicates of yourself and swing, stab, or shoot them in a cone, line, or emanation. Choose a 30-foot cone, 10-foot emanation, or 60-foot line. Creatures in the area take damage equal to your weapon damage dice, plus one additional weapon damage die, without any other bonuses, penalties, or modifiers. They each attempt a basic Reflex save against the higher of your class DC and spell DC. A creature who critically fails their save takes any critical specialization effect and extra deadly or fatal damage, similarly to if you critically hit them.</p>"
 		}
 	},
 	"effects": [],

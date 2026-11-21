@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>When you manifest your avatar, it can appear anywhere within 30 feet you can see with a clear line of effect, and you're then pulled in a straight line into its hands. This movement has the move trait; if it's disrupted, your avatar winks out and you fall where the movement was disrupted.</p>"
+			"value": "<p>When you manifest your avatar, you can do so at a distance, rather than being required to form your avatar within your own space. Your avatar can appear anywhere within 30 feet of you that you can see and to which you have a clear line of effect, and then once it appears, you're pulled in a straight line directly into your avatar's hands. Your movement into your avatar's hands has the move trait; if something disrupts your movement into your avatar's hand, your avatar winks out and you fall to the ground at the spot where the movement was disrupted.</p>"
 		}
 	},
 	"effects": [],

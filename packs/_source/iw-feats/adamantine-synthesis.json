@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You are treated as adamantine for the effects of weaknesses, resistances and the like.</p>"
+			"value": "<p>You incorporate an alloy of the skymetal adamantine or some of adamantine's mystical properties into your composition. You are treated as if you were adamantine to determine the effects of weaknesses, resistances, and the like.</p>"
 		}
 	},
 	"effects": [],

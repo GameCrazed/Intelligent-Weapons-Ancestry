@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>When you manifest your avatar, you can project it at its normal size, as a Large avatar (as <em>enlarge</em>) or a Tiny avatar (as <em>shrink</em>). This lasts until you manifest an avatar of a different size.</p>"
+			"value": "<p>When you manifest your avatar, you can project it at a different size by dilating your magic. Choose between your avatar's normal size or an avatar with the effects of <em>enlarge</em> (a Large avatar) or <em>shrink</em> (a Tiny avatar). This lasts until you manifest an avatar of a different size.</p>"
 		}
 	},
 	"effects": [],

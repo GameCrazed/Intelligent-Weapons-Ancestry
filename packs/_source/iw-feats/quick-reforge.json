@@ -25,9 +25,7 @@
 		"traits": {
 			"rarity": "common",
 			"value": [
-				"concentrate",
-				"intelligent-weapon",
-				"manipulate"
+				"intelligent-weapon"
 			]
 		},
 		"prerequisites": {
@@ -41,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>In addition to reforging during daily preparations, you can reforge yourself as a 10-minute activity.</p>"
+			"value": "<p>You can reforge yourself so rapidly, the process of transforming yourself is complete in the time it takes others to merely recover their focus or take a short breather. In addition to reforging yourself during your daily preparations with the Reforge Self feat, you can reforge yourself as a 10 minute activity, which has the concentrate and manipulate traits.</p>"
 		}
 	},
 	"effects": [],

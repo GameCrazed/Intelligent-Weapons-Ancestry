@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain 5 Hardness, but lose it after taking a critical hit or when your Hit Points fall below half your maximum. You regain it once you recover to your maximum Hit Points.</p>"
+			"value": "<p>Your powerful magic infuses your body's outer shell, providing you hardness until you suffer enough physical trauma to break through. You gain 5 Hardness, but you lose the Hardness after taking a critical hit or after your Hit Points fall below half your maximum Hit Points. You regain your lost Hardness after you recover up to your maximum Hit Points.</p>"
 		}
 	},
 	"effects": [],

@@ -42,7 +42,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You analyze every possibility before attacking. The next time you make an attack roll before the end of your turn, roll twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required because the target is concealed or hidden.</p>"
+			"value": "<p>You focus on your movements as a weapon and analyze every possibility before attacking. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden.</p>"
 		}
 	},
 	"effects": [],

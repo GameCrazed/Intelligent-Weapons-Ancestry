@@ -35,7 +35,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Each day during your daily preparations you can reshape yourself into a different kind of level 0 or 1 weapon to which you have access. Runes, feats or abilities that no longer suit your new weapon type lose their effects. If your GM lets you gain the benefits of a specific weapon, you can't use this feat to change to a different kind.</p>"
+			"value": "<p>Each day, you can reshape your magic into your own form to alter your shape, reforging yourself as a different kind of level 0 or 1 weapon to which you have access. During your daily preparations, you can change what kind of weapon you are. This might cause some of your runes, feats, or similar abilities to lose their effects if you are no longer an appropriate kind of weapon to gain the benefit of those runes, feats, or similar abilities. For example, if you have the <em>wounding</em> rune and cease to be a piercing or slashing melee weapon, you would gain no benefit from it. If your GM allows you to gain the benefits of a specific weapon, you can't use this feat to change to a different kind of weapon.</p>"
 		}
 	},
 	"effects": [],

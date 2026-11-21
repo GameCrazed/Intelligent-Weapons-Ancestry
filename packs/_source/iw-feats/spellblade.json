@@ -36,7 +36,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Choose a cantrip from your weapon magical tradition. You can use it at will as a Cast a Spell activation using your spell DC. You become trained in spell attack rolls and spell DCs for your weapon magical tradition if you weren't already, and your spellcasting ability is your choice of Intelligence, Wisdom or Charisma.</p>"
+			"value": "<p>You're infused with magical energy that allows you to produce a simple spell as often as you like. Choose a cantrip from your weapon magical tradition (see the weapon ancestry ability on page 84). You can use this cantrip as a Cast a Spell activation at will. The activation uses your spell DC. You become trained in spell attack rolls and spell DCs for spells of your weapon magical tradition if you weren't already, and your spellcasting ability score is your choice of Intelligence, Wisdom, or Charisma.</p>"
 		}
 	},
 	"effects": [],

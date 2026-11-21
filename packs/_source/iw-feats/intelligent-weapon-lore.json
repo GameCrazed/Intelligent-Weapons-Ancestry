@@ -35,7 +35,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You become trained in Crafting and in the skill associated with your weapon magical tradition (Arcana for arcane, Religion for divine, Occultism for occult, Nature for primal). If you would automatically become trained in one of them, you instead become trained in a skill of your choice. You gain the Additional Lore feat for Intelligent Weapon Lore.</p>"
+			"value": "<p>In your quest to understand your origins (or in your previous life as a weaponsmith whose mind and spirit entered a weapon), you've learned much about the mysteries of intelligent weapons and how to create them. You gain the trained proficiency rank in Crafting and the skill associated with your weapon magical tradition (Arcana for arcane, Religion for divine, Occultism for occult, and Nature for primal). If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You gain the Additional Lore feat in Intelligent Weapon Lore.</p>"
 		}
 	},
 	"effects": [],

@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You disguise your quality and appearance: appearing decrepit and shoddy, brand new and polished, or another similar disguise the GM allows. The illusion lasts until you end or change it. A creature that Interacts with you can try to disbelieve it (DC equal to the higher of your class DC or spell DC).</p>"
+			"value": "<p>You can disguise your quality and appearance to befuddle those who look upon you. Decide what sort of disguise you wish to place on yourself. You can make yourself look decrepit, appearing broken and shoddy. You can make yourself look perfect, appearing as though you're brand new and highly polished or well maintained. You can also make other similar disguises, as determined by the GM. The illusion lasts until you use Disguise Quality to end it or change your disguise. A creature that Interacts with you can attempt to disbelieve the illusion (the DC is equal to the higher of your class DC or spell DC).</p>"
 		}
 	},
 	"effects": [],

@@ -44,7 +44,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You've enhanced the senses from your creation. You gain darkvision.</p><p>A possessing weapon gains no benefit unless possessing a creature with low-light vision.</p>"
+			"value": "<p>You've enhanced the senses you received during your creation, allowing you to see in the dark. You gain darkvision. As a reminder, due to losing low-light vision, a possessing weapon can't gain the benefit of this feat unless they're possessing a creature with low-light vision (and if they're possessing a creature with darkvision, this feat doesn't provide them any benefit).</p>"
 		}
 	},
 	"effects": [],

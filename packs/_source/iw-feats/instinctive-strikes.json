@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Make a Strike with yourself. For 1 minute you're quickened and can use the extra action to make a Strike with yourself. In inanimate mode or as an item, you don't Strike and your wielder gains quickened instead.</p>"
+			"value": "<p>You connect to your instincts as a weapon and the power of <em>speed</em> weapons, causing you to swing, stab, or shoot effortlessly. Make a Strike with yourself. For 1 minute, you're quickened, and you can use the extra action to make a Strike with yourself. If you're in inanimate mode or you're an item intelligent weapon, you don't make a Strike, and your wielder gains the quickened condition instead of you.</p>"
 		}
 	},
 	"effects": [],

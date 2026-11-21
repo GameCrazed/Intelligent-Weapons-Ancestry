@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Even in inanimate mode, you can punish those who dare wield you. The creature wielding you in inanimate mode (or wielding you if you're an item) takes 1d6 force damage per level you have, with a basic Will save. You can choose to force them to drop you.</p>"
+			"value": "<p>Whether you're a divine weapon with a mission meant only for the worthy or simply choosy about your partners, even when you're in inanimate mode, you can punish the unworthy who dare to try and wield you. The creature wielding you in inanimate mode (or wielding you if you're playing as an item) takes 1d6 force damage for every level you have with a basic Will save. You can choose to force them to drop you.</p>"
 		}
 	},
 	"effects": [],

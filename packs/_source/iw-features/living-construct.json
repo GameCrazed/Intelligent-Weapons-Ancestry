@@ -2,7 +2,7 @@
 	"_id": "KKmrp6obyNYLHAQr",
 	"name": "Living Construct",
 	"type": "feat",
-	"img": "systems/pf2e/icons/default-icons/character.svg",
+	"img": "icons/creatures/magical/construct-stone-earth-gray.webp",
 	"system": {
 		"slug": "living-construct",
 		"publication": {
@@ -30,7 +30,7 @@
 			"value": []
 		},
 		"description": {
-			"value": "<p>You are a creature, not an object. Effects that work on creatures affect you (effects that work on objects don't, except those that apply to weapons), and you lack typical construct immunities. You recover Hit Points normally from positive energy.</p><p>You aren't destroyed at 0 Hit Points; you're knocked out and begin dying instead.</p><p>You don't need to breathe, eat, drink or sleep, but you need a daily rest of 2 hours spent in a restful state in which you stay aware of your surroundings. Go too long without it and you become fatigued. Unless you are an animated weapon, you still contend with your wielder's need to breathe, eat, drink and rest.</p>"
+			"value": "<p>As an intelligent weapon character, you possess much greater agency than a normal intelligent weapon, partially because you have a mind, life force, and spirit, while item intelligent weapons often only have a mind. You are a creature, not an object, and you can be affected by effects that work on creatures, not effects that work on objects (except effects that can apply to weapons, listed in your weapon ancestry ability). Your magical energies and life force flow through you, much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature and can recover Hit Points normally via positive energy. Additionally, you aren't destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you alive even in dire straits; you're knocked out and begin dying when reduced to 0 Hit Points.</p><p>However, just because you're alive and have a spirit doesn't mean you have the same physiological needs as other living creatures. You don't need to breathe, eat, drink, and you don't need to sleep, but you do still need a daily period of rest, and for most heritages (all except animated weapon), you still need to contend with your wielder's need to breathe, eat, drink, and rest. During your period of rest, you must enter a restful state for 2 hours, which is similar to sleeping, except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your restful state, you become fatigued and can't recover until you rest for 2 hours.</p>"
 		}
 	},
 	"effects": [],

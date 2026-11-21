@@ -42,7 +42,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain a fly Speed equal to your Speed for 1 minute.</p>"
+			"value": "<p>You concentrate additional magical energy into the circulation through your weapon body that keeps you floating, allowing you to fly for a brief time until you recharge the power again. You gain a fly Speed equal to your Speed for 1 minute.</p>"
 		}
 	},
 	"effects": [],

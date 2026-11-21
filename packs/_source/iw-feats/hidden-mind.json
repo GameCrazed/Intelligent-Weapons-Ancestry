@@ -43,7 +43,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p><strong>Trigger</strong> You fail a Will saving throw.</p><p>You shunt the effect onto your possessed body or symbiotic wielder. Reroll the failed save and take the better result, with a +1 circumstance bonus to the reroll if you're a possessing weapon or +2 if you're a symbiotic weapon.</p><p>As a symbiotic weapon, if the second roll is a success, your wielder diffuses the effect for you and you can't use the skills granted by your wielder's heritage for 10 minutes.</p>"
+			"value": "<p><strong>Trigger</strong> You fail a Will saving throw.</p><p>You take advantage of the ambiguous or hidden nature of your true intelligence to shunt off an effect assailing your will to your possessed body or symbiotic wielder. Reroll the failed saving throw and take the better result. You gain a +1 circumstance bonus to the reroll if you're a possessing weapon, or a +2 circumstance bonus if you're a symbiotic weapon, since there's more of your wielder to distract the triggering effect. However, when you use Hidden Mind as a symbiotic weapon, if the second roll is a success, your wielder diffuses the effects for you and you can't use the skills granted by your wielder from your heritage for 10 minutes until they will recover.</p>"
 		}
 	},
 	"effects": [],

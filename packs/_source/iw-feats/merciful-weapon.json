@@ -35,7 +35,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain the nonlethal trait, which you can keep or suppress each time you Strike or another creature Strikes with you.</p>"
+			"value": "<p>The magic within you wasn't meant to take lives. You gain the nonlethal trait, though you can choose to either keep or suppress the trait each time you Strike or another creature Strikes with you.</p>"
 		}
 	},
 	"effects": [],

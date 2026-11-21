@@ -42,7 +42,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p><strong>Trigger</strong> An enemy's Strike against you is a critical hit.</p><p>You discorporate your avatar instead of taking the wound. You unmanifest your avatar, and the triggering attack deals only the damage a normal hit would (typically not doubled). Other critical hit effects still occur. As normal, with your avatar unmanifested you're flat-footed and can't act except to use activation feats, Seek, Recall Knowledge, and manifest your avatar.</p>"
+			"value": "<p><strong>Trigger</strong> An enemy's Strike against you is a critical hit.</p><p>When your foe delivers a telling blow to your projected avatar, instead of taking the wound, you discorporate your avatar. You unmanifest your avatar, and the triggering attack deals only the amount of damage it would normally deal on a hit (typically full damage instead of double damage). Any other effects caused by a critical hit still occur. As normal, with your avatar unmanifested, you're flat-footed and you can't act except to use your activation ancestry feats, to Seek, to Recall Knowledge, and to manifest your avatar.</p>"
 		}
 	},
 	"effects": [],

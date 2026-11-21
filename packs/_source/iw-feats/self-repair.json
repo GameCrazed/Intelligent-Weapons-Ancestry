@@ -35,7 +35,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You can repair yourself like an item while at rest. You can use Crafting instead of Medicine to Treat Wounds on yourself. If you rest for 10 minutes, you automatically regain Hit Points equal to your Constitution modifier &times; half your level, cumulative with Treat Wounds. You still can't regain Hit Points from the Repair action.</p>"
+			"value": "<p>While living intelligent weapons are normally repaired via healing or Medicine like other living creatures, you've found a way to repair yourself like an item, and you do so automatically while at rest. You can use Crafting, instead of Medicine, to Treat Wounds on yourself. If you rest for 10 minutes, you repair yourself automatically, gaining Hit Points equal to your Constitution modifier &times; half your level. This is cumulative with any healing you receive from Treat Wounds. You still can't regain Hit Points from the Repair action, as normal.</p>"
 		}
 	},
 	"effects": [],

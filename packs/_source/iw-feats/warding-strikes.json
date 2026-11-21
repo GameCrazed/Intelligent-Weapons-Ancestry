@@ -40,7 +40,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Make a melee Strike with yourself against a foe. In addition to the Strike's normal effects, for up to 1 minute (ending early if the foe dies or at the end of any turn in which you didn't hit that foe with a melee Strike):</p><p><strong>Critical Success</strong> +3 status bonus to AC against the foe for 1 round, then +2 until the effect ends.</p><p><strong>Success</strong> +2 status bonus to AC against the foe until the effect ends.</p><p><strong>Failure</strong> +1 status bonus to AC against the foe until the effect ends.</p><p><strong>Critical Failure</strong> No additional effect.</p>"
+			"value": "<p>You ward off your foe's attacks with a string of attacks infused with mystical energy. Make a melee Strike with yourself against a foe. In addition to the normal effects of the Strike, it has the effects below, for up to 1 minute. The effect ends early if the foe you attacked dies or at the end of any turn in which you didn't hit that foe with a melee Strike.</p><p><strong>Critical Success</strong> You gain a +3 status bonus to AC against the foe for 1 round and a +2 status bonus to AC against the foe until the effect ends.</p><p><strong>Success</strong> You gain a +2 status bonus to AC against the foe until the effect ends.</p><p><strong>Failure</strong> You gain a +1 status bonus to AC against the foe until the effect ends.</p><p><strong>Critical Failure</strong> You gain no additional effect.</p>"
 		}
 	},
 	"effects": [],

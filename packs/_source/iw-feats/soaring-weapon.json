@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You permanently gain a fly Speed equal to your Speed. When you use Flying Weapon, you instead gain a +20-foot status bonus to your fly Speed for 1 minute.</p>"
+			"value": "<p>You can fly freely and when you use additional magic energy, you fly faster. You permanently gain a fly Speed equal to your Speed, and when you use the Flying Weapon feat, you gain a +20-foot status bonus to your fly Speed for 1 minute instead of gaining a fly Speed for 1 minute.</p>"
 		}
 	},
 	"effects": [],

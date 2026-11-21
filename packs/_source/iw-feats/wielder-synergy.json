@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You gain the Adopted Ancestry general feat for your wielder's ancestry and one 1st-level ancestry feat from that ancestry.</p>"
+			"value": "<p>You've gained such a powerful and inseparable synergy with your possessed, projected, or symbiotic wielder that you can access more of your ancestry's teachings and abilities for your own purposes. You gain the Adopted Ancestry general feat for the ancestry matching your wielder, and you also gain one 1st-level ancestry feat from your wielder's ancestry.</p>"
 		}
 	},
 	"effects": [],

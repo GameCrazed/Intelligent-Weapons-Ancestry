@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Choose cold iron or silver. You are treated as that precious metal for the effects of weaknesses, resistances and the like.</p>"
+			"value": "<p>You either incorporate one of the more inexpensive precious metals into your composition or mirror that precious metal's mystical properties through your own mystical growth as an intelligent weapon. Choose either cold iron or silver. You are treated as the chosen type of precious metal to determine the effects of weaknesses, resistances, and the like.</p>"
 		}
 	},
 	"effects": [],

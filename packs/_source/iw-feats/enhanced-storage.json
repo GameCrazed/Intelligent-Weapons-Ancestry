@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You can store more items within you in the same way as your invested items, up to your light load limit (typically 5 plus your Strength modifier). Armor plating and melded invested items and ammunition count against this limit.</p>"
+			"value": "<p>You can store more items within you in the same way as your invested items. You can store items up to the limit of your light load limit (typically 5 plus your Strength modifier), though any armor plating you have and any melded invested items and ammunition count against this limit.</p>"
 		}
 	},
 	"effects": [],

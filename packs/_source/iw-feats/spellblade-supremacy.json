@@ -40,7 +40,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Select one 5th-level and one 6th-level spell of your weapon magical tradition to which you have access. You can use each once per day as a Cast a Spell activation using your spell DC.</p>"
+			"value": "<p>You've reached the apex of channeling your mystic energies into magical activations. Select one 5th-level spell and one 6th-level spell, each of your weapon magical tradition. They must be spells to which you have access. You can use each of your chosen spells once per day as Cast a Spell activations. The activations use your spell DC.</p>"
 		}
 	},
 	"effects": [],

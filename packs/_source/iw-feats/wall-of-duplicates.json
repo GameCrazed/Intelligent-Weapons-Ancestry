@@ -41,7 +41,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You create a wall 20 feet high, 120 feet long and 2 inches thick anywhere within 120 feet. It provides cover and deals damage equal to your weapon damage dice plus two additional weapon damage dice (no other modifiers) to each creature in its space when created, that tries to pass through, or that ends its turn inside, with a basic Reflex save. A creature that succeeds when the wall is created is pushed to the nearest space of its choice. A creature that critically fails can't pass through, ends its movement adjacent, and takes your critical specialization effect and extra deadly or fatal damage as if you had critically hit.</p>"
+			"value": "<p>You create a wall of duplicates of yourself that attack anyone who tries to pass through. The wall is a straight line 20 feet high, 120 feet long, and 2 inches thick that appears anywhere within 120 feet, and it provides cover. The wall deals damage equal to your weapon's damage dice plus two additional weapon damage dice (without any bonuses, penalties, or modifiers) to each creature that's in the wall's space when it is created, that attempts to pass through the wall, or that ends its turn inside the wall. A basic Reflex save reduces the damage. A creature that succeeds at this save when the wall is created is pushed to the nearest space on the side of its choice. Creatures trying to move through the wall fail to do so if they critically fail the save, ending their movement adjacent to the wall. A creature who critically fails their save also takes any critical specialization effect and extra deadly or fatal damage, similarly to if you critically hit them.</p>"
 		}
 	},
 	"effects": [],

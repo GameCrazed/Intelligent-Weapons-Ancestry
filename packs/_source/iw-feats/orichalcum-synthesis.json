@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You are treated as orichalcum for the effects of weaknesses, resistances and the like.</p>"
+			"value": "<p>You incorporate fragments of the legendary skymetal orichalcum, or else some of its mystical time-bending properties, into the composition that makes up your weapon body. You are treated as orichalcum when determining the effects of weaknesses, resistances, and the like.</p>"
 		}
 	},
 	"effects": [],

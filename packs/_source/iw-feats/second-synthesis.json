@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You are treated as both cold iron and silver for the effects of weaknesses, resistances and the like.</p>"
+			"value": "<p>You incorporate multiple forms of precious metal into your composition at once. You are treated as both cold iron and silver to determine the effects of weaknesses, resistances, and the like, instead of just the precious metal you chose when you took Precious Synthesis.</p>"
 		}
 	},
 	"effects": [],

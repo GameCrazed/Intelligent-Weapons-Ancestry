@@ -39,7 +39,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>Detection and revelation effects reveal results appropriate to your wielder rather than the true information about you, unless the effect's counteract level is higher than your own. A possessing weapon's wielder is a vacant body, so this may still yield suspicious results.</p>"
+			"value": "<p>You can elude all sorts of magical effects that make attempts to discern information about your true nature by sending them to affect your wielder instead of you. Detection and revelation effects detect or reveal the results appropriate for your wielder, rather than the true information about you, unless the effect has a counteract level higher than your own. Because a possessing weapon's wielder is a vacant body, this might still yield suspicious results, depending on the effect. For instance, spells and special senses that read thoughts would reveal your wielder's thoughts (or no thoughts for a possessing weapon) rather than your own. As another example, unless your wielder has the magical trait or a similar trait (which most wielders do not), this prevents detection effects from determining that you're magical.</p>"
 		}
 	},
 	"effects": [],

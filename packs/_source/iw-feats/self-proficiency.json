@@ -35,7 +35,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You wield yourself with innate skill. If you're a martial weapon, you count as a simple weapon for determining your proficiency; if you're an advanced weapon, you count as a martial weapon. This doesn't affect other weapons of your kind. At 5th level, whenever you critically hit with yourself, you gain its critical specialization effect.</p>"
+			"value": "<p>You know how to wield yourself inherently due to your nature as an intelligent weapon. If you're a martial weapon, then for the purpose of determining your proficiency, you're a simple weapon. If you're an advanced weapon, for the purpose of determining your proficiency, you're a martial weapon. This doesn't affect your proficiency in other weapons of your same kind. At 5th level, whenever you get a critical hit with yourself, you get its critical specialization effect.</p>"
 		}
 	},
 	"effects": [],

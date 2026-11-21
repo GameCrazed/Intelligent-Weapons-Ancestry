@@ -43,7 +43,7 @@
 		"onlyLevel1": false,
 		"maxTakable": 1,
 		"description": {
-			"value": "<p>You fling yourself 30 feet in a straight line in any direction, even straight up. You can land into a normal hover immediately or fall after using your next action; you choose when.</p>"
+			"value": "<p>You fling yourself through the air at a distance. You fling yourself 30 feet in a straight line in any direction, even straight up. You can land into a normal hover immediately or fall after using your next action; you choose when you fling yourself.</p>"
 		}
 	},
 	"effects": [],
