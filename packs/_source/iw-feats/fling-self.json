@@ -1,0 +1,57 @@
+{
+	"_id": "m8zzl1lSDhpQQB63",
+	"name": "Fling Self",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "fling-self",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 5
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 1
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon",
+				"move"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "animated weapon heritage"
+				}
+			]
+		},
+		"frequency": {
+			"max": 1,
+			"per": "PT1H"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You fling yourself 30 feet in a straight line in any direction, even straight up. You can land into a normal hover immediately or fall after using your next action; you choose when.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!m8zzl1lSDhpQQB63"
+}

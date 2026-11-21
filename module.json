@@ -1,0 +1,106 @@
+{
+	"id": "intelligent-weapons-ancestry-pf2e",
+	"title": "Intelligent Weapon Ancestry for Pathfinder 2e",
+	"description": "Play as an Intelligent Weapon, a living creature whose true form is a magic weapon, based on the ancestry from Battlezoo Ancestries: Classic Creatures. Adds the ancestry, its heritages, ancestry features and ancestry feats to the PF2e system. Requires you to own the Battlezoo book.",
+	"url": "https://github.com/GameCrazed/Intelligent-Weapons-Ancestry",
+	"version": "1.0.0",
+	"manifest": "https://github.com/GameCrazed/Intelligent-Weapons-Ancestry/releases/latest/download/module.json",
+	"download": "https://github.com/GameCrazed/Intelligent-Weapons-Ancestry/releases/latest/download/module.zip",
+	"authors": [
+		{
+			"name": "GameCrazed",
+			"flags": {}
+		}
+	],
+	"compatibility": {
+		"minimum": "13",
+		"verified": "14"
+	},
+	"relationships": {
+		"systems": [
+			{
+				"id": "pf2e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "7.2"
+				}
+			}
+		]
+	},
+	"packs": [
+		{
+			"label": "IW Ancestries",
+			"name": "iw-ancestries",
+			"path": "packs/iw-ancestries",
+			"system": "pf2e",
+			"ownership": { "PLAYER": "LIMITED", "ASSISTANT": "OWNER" },
+			"type": "Item",
+			"flags": {}
+		},
+		{
+			"label": "IW Heritages",
+			"name": "iw-heritages",
+			"path": "packs/iw-heritages",
+			"system": "pf2e",
+			"ownership": { "PLAYER": "LIMITED", "ASSISTANT": "OWNER" },
+			"type": "Item",
+			"flags": {}
+		},
+		{
+			"label": "IW Ancestry Features",
+			"name": "iw-features",
+			"path": "packs/iw-features",
+			"system": "pf2e",
+			"ownership": { "PLAYER": "LIMITED", "ASSISTANT": "OWNER" },
+			"type": "Item",
+			"flags": {}
+		},
+		{
+			"label": "IW Feats",
+			"name": "iw-feats",
+			"path": "packs/iw-feats",
+			"system": "pf2e",
+			"ownership": { "PLAYER": "LIMITED", "ASSISTANT": "OWNER" },
+			"type": "Item",
+			"flags": {}
+		},
+		{
+			"label": "IW Actions",
+			"name": "iw-actions",
+			"path": "packs/iw-actions",
+			"system": "pf2e",
+			"ownership": { "PLAYER": "LIMITED", "ASSISTANT": "OWNER" },
+			"type": "Item",
+			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "Intelligent Weapon Ancestry",
+			"sorting": "m",
+			"packs": [
+				"iw-ancestries",
+				"iw-heritages",
+				"iw-features",
+				"iw-feats",
+				"iw-actions"
+			]
+		}
+	],
+	"flags": {
+		"intelligent-weapons-ancestry-pf2e": {
+			"pf2e-homebrew": {
+				"creatureTraits": {
+					"intelligent-weapon": "Intelligent Weapon"
+				},
+				"featTraits": {
+					"intelligent-weapon": "Intelligent Weapon",
+					"activation": {
+						"label": "Activation",
+						"description": "A feat with the activation trait provides a new activation or, if the feat is an action, is itself an activation. Activation feats remain usable in inanimate mode, by a projecting weapon without a projection, or by an item intelligent weapon. If such a feat grants an action you can't take (such as a Strike or Stride), you don't take it, and the GM may rule the whole effect fails. A wielder can use your activation feats with your permission."
+					}
+				}
+			}
+		}
+	}
+}

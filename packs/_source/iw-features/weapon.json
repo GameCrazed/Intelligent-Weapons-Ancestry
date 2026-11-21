@@ -1,0 +1,44 @@
+{
+	"_id": "TDcZAOaUQ4YjJHr5",
+	"name": "Weapon",
+	"type": "feat",
+	"img": "systems/pf2e/icons/equipment/weapons/longsword.webp",
+	"system": {
+		"slug": "weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestryfeature",
+		"level": {
+			"value": 0
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"description": {
+			"value": "<p>While also a living creature, you are a level 0 or 1 simple, martial or advanced weapon, either common or one to which you have access.</p><p>You can be upgraded with most runes (or monster parts) like a normal weapon of your kind and can be affected by spells such as <em>magic weapon</em>. Runes or abilities that depend on being an object, or that grant resilience, hardness, mobility (like <em>dancing</em>) or teleport you, don't work; the GM decides. If your class grants or relies on a special weapon (weapon innovation, weapon implement), you can choose yourself.</p><p>Choose a single magical tradition used in your creation, your <strong>weapon magical tradition</strong>. It is your tradition for intelligent weapon feats with the magical trait or that depend on a tradition, and for monster part properties that depend on a tradition.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!TDcZAOaUQ4YjJHr5"
+}

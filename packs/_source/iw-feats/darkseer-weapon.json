@@ -1,0 +1,58 @@
+{
+	"_id": "qTWzMpeSaB9GVX6r",
+	"name": "Darkseer Weapon",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "darkseer-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "Sense",
+				"selector": "darkvision"
+			}
+		],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "low-light vision"
+				}
+			]
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You've enhanced the senses from your creation. You gain darkvision.</p><p>A possessing weapon gains no benefit unless possessing a creature with low-light vision.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!qTWzMpeSaB9GVX6r"
+}

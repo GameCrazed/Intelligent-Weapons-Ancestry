@@ -1,0 +1,55 @@
+{
+	"_id": "OZTArbRVvZdvXM6v",
+	"name": "Wall of Duplicates",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "wall-of-duplicates",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 17
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 3
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"evocation",
+				"intelligent-weapon",
+				"magical"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": {
+			"max": 1,
+			"per": "PT1H"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You create a wall 20 feet high, 120 feet long and 2 inches thick anywhere within 120 feet. It provides cover and deals damage equal to your weapon damage dice plus two additional weapon damage dice (no other modifiers) to each creature in its space when created, that tries to pass through, or that ends its turn inside, with a basic Reflex save. A creature that succeeds when the wall is created is pushed to the nearest space of its choice. A creature that critically fails can't pass through, ends its movement adjacent, and takes your critical specialization effect and extra deadly or fatal damage as if you had critically hit.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!OZTArbRVvZdvXM6v"
+}

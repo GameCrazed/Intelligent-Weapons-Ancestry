@@ -1,0 +1,44 @@
+{
+	"_id": "KKmrp6obyNYLHAQr",
+	"name": "Living Construct",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/character.svg",
+	"system": {
+		"slug": "living-construct",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestryfeature",
+		"level": {
+			"value": 0
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"description": {
+			"value": "<p>You are a creature, not an object. Effects that work on creatures affect you (effects that work on objects don't, except those that apply to weapons), and you lack typical construct immunities. You recover Hit Points normally from positive energy.</p><p>You aren't destroyed at 0 Hit Points; you're knocked out and begin dying instead.</p><p>You don't need to breathe, eat, drink or sleep, but you need a daily rest of 2 hours spent in a restful state in which you stay aware of your surroundings. Go too long without it and you become fatigued. Unless you are an animated weapon, you still contend with your wielder's need to breathe, eat, drink and rest.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!KKmrp6obyNYLHAQr"
+}

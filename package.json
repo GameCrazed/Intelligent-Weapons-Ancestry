@@ -1,0 +1,13 @@
+{
+  "name": "intelligent-weapons-ancestry-pf2e",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Build tooling for the Intelligent Weapon ancestry module for Foundry VTT (PF2e).",
+  "scripts": {
+    "build": "node tools/build-packs.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^2.0.0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"_id": "Jubz1IAwAAKK8p8w",
+	"name": "Possessing Weapon",
+	"type": "heritage",
+	"img": "systems/pf2e/icons/default-icons/heritage.svg",
+	"system": {
+		"slug": "possessing-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"ancestry": {
+			"name": "Intelligent Weapon",
+			"slug": "intelligent-weapon",
+			"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-ancestries.Item.8SKk106Ha99dXs3N"
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"description": {
+			"value": "<p>You control a vacant body. Choose a Small or Medium ancestry that can wield you; you act through a body of that ancestry and share life force with it. You are one creature and can't be Disarmed or separated except by entering inanimate mode.</p><p>The body needs standard air, food, water and sleep for its ancestry, and you rest for 8 hours. You lose low-light vision but gain the base abilities of the chosen ancestry (such as low-light vision or darkvision) while controlling the body.</p><p>In inanimate mode the body is insensate and vulnerable; if you die in that state it typically dies soon after. Talk with your group before playing a weapon that suppresses a sapient creature's will.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!Jubz1IAwAAKK8p8w"
+}

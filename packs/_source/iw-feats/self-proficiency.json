@@ -1,0 +1,49 @@
+{
+	"_id": "udgjvwf2j6Nx3JrW",
+	"name": "Self Proficiency",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "self-proficiency",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You wield yourself with innate skill. If you're a martial weapon, you count as a simple weapon for determining your proficiency; if you're an advanced weapon, you count as a martial weapon. This doesn't affect other weapons of your kind. At 5th level, whenever you critically hit with yourself, you gain its critical specialization effect.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!udgjvwf2j6Nx3JrW"
+}

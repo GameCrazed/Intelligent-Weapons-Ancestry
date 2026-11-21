@@ -1,0 +1,53 @@
+{
+	"_id": "yiPanAufEXr5aCKh",
+	"name": "Distant Projection",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "distant-projection",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 9
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "projecting weapon heritage"
+				}
+			]
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>When you manifest your avatar, it can appear anywhere within 30 feet you can see with a clear line of effect, and you're then pulled in a straight line into its hands. This movement has the move trait; if it's disrupted, your avatar winks out and you fall where the movement was disrupted.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!yiPanAufEXr5aCKh"
+}

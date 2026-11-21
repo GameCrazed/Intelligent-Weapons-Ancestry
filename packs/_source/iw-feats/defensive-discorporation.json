@@ -1,0 +1,56 @@
+{
+	"_id": "2EL7qvkDc4jcwLtS",
+	"name": "Defensive Discorporation",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "defensive-discorporation",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "reaction"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "projecting weapon heritage"
+				}
+			]
+		},
+		"frequency": {
+			"max": 1,
+			"per": "PT10M"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p><strong>Trigger</strong> An enemy's Strike against you is a critical hit.</p><p>You discorporate your avatar instead of taking the wound. You unmanifest your avatar, and the triggering attack deals only the damage a normal hit would (typically not doubled). Other critical hit effects still occur. As normal, with your avatar unmanifested you're flat-footed and can't act except to use activation feats, Seek, Recall Knowledge, and manifest your avatar.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!2EL7qvkDc4jcwLtS"
+}

@@ -1,0 +1,90 @@
+{
+	"_id": "8SKk106Ha99dXs3N",
+	"name": "Intelligent Weapon",
+	"type": "ancestry",
+	"img": "systems/pf2e/icons/default-icons/ancestry.svg",
+	"system": {
+		"slug": "intelligent-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"hp": 8,
+		"size": "med",
+		"speed": 25,
+		"reach": 5,
+		"vision": "lowLightVision",
+		"boosts": {
+			"0": {
+				"value": [
+					"con"
+				],
+				"selected": null
+			},
+			"1": {
+				"value": [
+					"str",
+					"dex",
+					"con",
+					"int",
+					"wis",
+					"cha"
+				],
+				"selected": null
+			}
+		},
+		"flaws": {},
+		"languages": {
+			"value": [
+				"common"
+			],
+			"custom": ""
+		},
+		"additionalLanguages": {
+			"count": 1,
+			"value": [],
+			"custom": "Plus your Intelligence modifier (if positive). Choose from your creator's ancestry (or the creature whose mind sparked your own) or other languages you have access to."
+		},
+		"traits": {
+			"rarity": "rare",
+			"value": [
+				"construct",
+				"intelligent-weapon"
+			]
+		},
+		"items": {
+			"KKmrp6obyNYLHAQr": {
+				"img": "systems/pf2e/icons/default-icons/character.svg",
+				"name": "Living Construct",
+				"level": 0,
+				"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-features.Item.KKmrp6obyNYLHAQr"
+			},
+			"tgfnGSDtXjl48tOM": {
+				"img": "systems/pf2e/icons/equipment/weapons/dagger.webp",
+				"name": "Inanimate Mode",
+				"level": 0,
+				"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-features.Item.tgfnGSDtXjl48tOM"
+			},
+			"TDcZAOaUQ4YjJHr5": {
+				"img": "systems/pf2e/icons/equipment/weapons/longsword.webp",
+				"name": "Weapon",
+				"level": 0,
+				"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-features.Item.TDcZAOaUQ4YjJHr5"
+			}
+		},
+		"description": {
+			"value": "<p>Intelligent weapon characters are people whose true form is a magic weapon, with a spark of life and agency that lets them break beyond what an \"item\" can do. Their weapon body is always Tiny, but most heritages let them act through a projected avatar, a possessed body, a symbiotic wielder, or by wielding themselves.</p><p><strong>Hit Points</strong> 8. <strong>Size</strong> see heritage (Tiny weapon; effectively Small or Medium when active). <strong>Speed</strong> 25 feet. <strong>Ability Boosts</strong> Constitution, free. <strong>Traits</strong> Construct, Intelligent Weapon. <strong>Low-Light Vision</strong>.</p><p><strong>Arsenals</strong> (philosophies): battleseekers, embodied, itemspeakers, ramblers, smiths and upgraders.</p><p><strong>Versatile heritage:</strong> if you take one, decide whether you have a wielder. If not, use the animated weapon rules but you can't float (you slide along the ground). If you do, use the possessing, projecting or symbiotic rules without their special benefit.</p><p><em>See Battlezoo Ancestries: Classic Creatures for the full ancestry.</em></p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!8SKk106Ha99dXs3N"
+}

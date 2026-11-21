@@ -1,0 +1,53 @@
+{
+	"_id": "aQ0p1uISarfU6IyL",
+	"name": "Dilating Projection",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "dilating-projection",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 13
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "projecting weapon heritage"
+				}
+			]
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>When you manifest your avatar, you can project it at its normal size, as a Large avatar (as <em>enlarge</em>) or a Tiny avatar (as <em>shrink</em>). This lasts until you manifest an avatar of a different size.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!aQ0p1uISarfU6IyL"
+}

@@ -1,0 +1,55 @@
+{
+	"_id": "2TfWKsT1zuGKkpp4",
+	"name": "Quick Reforge",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "quick-reforge",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 13
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"concentrate",
+				"intelligent-weapon",
+				"manipulate"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "Reforge Self"
+				}
+			]
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>In addition to reforging during daily preparations, you can reforge yourself as a 10-minute activity.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!2TfWKsT1zuGKkpp4"
+}

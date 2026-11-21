@@ -1,0 +1,49 @@
+{
+	"_id": "Kgn8ipLMahqz6Q2K",
+	"name": "Intelligent Weapon Lore",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "intelligent-weapon-lore",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You become trained in Crafting and in the skill associated with your weapon magical tradition (Arcana for arcane, Religion for divine, Occultism for occult, Nature for primal). If you would automatically become trained in one of them, you instead become trained in a skill of your choice. You gain the Additional Lore feat for Intelligent Weapon Lore.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!Kgn8ipLMahqz6Q2K"
+}

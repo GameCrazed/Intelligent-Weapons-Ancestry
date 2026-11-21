@@ -1,0 +1,55 @@
+{
+	"_id": "IDu8uZQRMG32HA2I",
+	"name": "Storm of Duplicates",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "storm-of-duplicates",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 13
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 2
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"evocation",
+				"intelligent-weapon",
+				"magical"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": {
+			"max": 1,
+			"per": "PT1H"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>Choose a 30-foot cone, 10-foot emanation or 60-foot line. Creatures in the area take damage equal to your weapon damage dice plus one additional weapon damage die, with no other bonuses, penalties or modifiers, with a basic Reflex save against the higher of your class DC and spell DC. A creature that critically fails also takes your critical specialization effect and extra deadly or fatal damage as if you had critically hit.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!IDu8uZQRMG32HA2I"
+}

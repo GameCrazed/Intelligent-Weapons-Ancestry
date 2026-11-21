@@ -1,0 +1,54 @@
+{
+	"_id": "9iCX49a4JyYXp8Hm",
+	"name": "Spellblade Supremacy",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "spellblade-supremacy",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 17
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": [
+				{
+					"value": "Spellblade Master"
+				}
+			]
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>Select one 5th-level and one 6th-level spell of your weapon magical tradition to which you have access. You can use each once per day as a Cast a Spell activation using your spell DC.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!9iCX49a4JyYXp8Hm"
+}

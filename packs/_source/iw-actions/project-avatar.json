@@ -1,0 +1,40 @@
+{
+	"_id": "7GaSW1QZtFRobo3g",
+	"name": "Project Avatar",
+	"type": "action",
+	"img": "systems/pf2e/icons/default-icons/action.svg",
+	"system": {
+		"slug": "project-avatar",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 1
+		},
+		"category": "",
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"concentrate"
+			]
+		},
+		"description": {
+			"value": "<p><strong>Requirements</strong> You have the projecting weapon heritage.</p><p>You manifest an avatar in your space (or an adjacent space if you were already in a creature's space) or unmanifest your current avatar. The avatar appears wielding you or with you stowed, as you choose; if another creature was holding you, it no longer is. The avatar appears in your space, which could be dangerous (for instance, inside a monster that swallowed you in inanimate mode).</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!7GaSW1QZtFRobo3g"
+}

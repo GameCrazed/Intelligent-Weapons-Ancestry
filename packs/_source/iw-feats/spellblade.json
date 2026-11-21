@@ -1,0 +1,50 @@
+{
+	"_id": "J8l5ckD2o8R1Vy7l",
+	"name": "Spellblade",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "spellblade",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "passive"
+		},
+		"actions": {
+			"value": null
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": null,
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>Choose a cantrip from your weapon magical tradition. You can use it at will as a Cast a Spell activation using your spell DC. You become trained in spell attack rolls and spell DCs for your weapon magical tradition if you weren't already, and your spellcasting ability is your choice of Intelligence, Wisdom or Charisma.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!J8l5ckD2o8R1Vy7l"
+}

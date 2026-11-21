@@ -1,0 +1,41 @@
+{
+	"_id": "Ecfv3bIV8OiPEbQr",
+	"name": "Projecting Weapon",
+	"type": "heritage",
+	"img": "systems/pf2e/icons/default-icons/heritage.svg",
+	"system": {
+		"slug": "projecting-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-actions.Item.7GaSW1QZtFRobo3g"
+			}
+		],
+		"ancestry": {
+			"name": "Intelligent Weapon",
+			"slug": "intelligent-weapon",
+			"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-ancestries.Item.8SKk106Ha99dXs3N"
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"description": {
+			"value": "<p>You project an avatar to wield you. Choose a Small or Medium ancestry that can wield you. Your avatar looks like that ancestry but has none of its abilities. You gain the <strong>Project Avatar</strong> action. You are one creature with your avatar and can't be Disarmed or separated except by entering inanimate mode or unmanifesting your avatar.</p><p>Entering inanimate mode unmanifests your avatar; exiting lets you form it as part of the activity. Without an avatar (and not in inanimate mode) you're flat-footed and can only use activation feats, Seek, Recall Knowledge, and manifest your avatar.</p><p>Your avatar must breathe and eventually eat, drink and sleep while manifested; while it is unmanifested during your 2-hour rest you provide magical energy to meet those daily needs.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!Ecfv3bIV8OiPEbQr"
+}

@@ -1,0 +1,55 @@
+{
+	"_id": "XwsZfewjcQ8s7R8W",
+	"name": "Perfect Attunement",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "perfect-attunement",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 17
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 2
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"divination",
+				"intelligent-weapon",
+				"magical"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": {
+			"max": 1,
+			"per": "day"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>You gain a +3 status bonus to attack and damage rolls with yourself for 1 minute, then Strike with yourself. In inanimate form or as an item you can't Strike, and you grant the bonus to your wielder instead.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!XwsZfewjcQ8s7R8W"
+}

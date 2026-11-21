@@ -1,0 +1,44 @@
+{
+	"_id": "tgfnGSDtXjl48tOM",
+	"name": "Inanimate Mode",
+	"type": "feat",
+	"img": "systems/pf2e/icons/equipment/weapons/dagger.webp",
+	"system": {
+		"slug": "inanimate-mode",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestryfeature",
+		"level": {
+			"value": 0
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 3
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"description": {
+			"value": "<p>As a three-action activity, you can become inanimate so other creatures (other than a wielder that is part of your heritage) can wield you as a normal weapon.</p><p>In inanimate mode you're flat-footed and can't act except to use activation ancestry feats, Seek, Recall Knowledge, or return to your normal state (a three-action activity). Other creatures can carry and wield you normally.</p><p>Outside inanimate mode, no other creature (aside from a wielder that is part of your heritage) can wield you, though they can carry you. A creature must succeed at a Perception check against your Deception DC to realize you are more than a normal magic weapon. If a creature holds you when you exit inanimate mode: a possessing or symbiotic weapon can't escape without their wielder; a projecting weapon can manifest an avatar to escape; an animated weapon is grappled and can Escape normally.</p><p>This ability is meant for rare use.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!tgfnGSDtXjl48tOM"
+}

@@ -1,0 +1,41 @@
+{
+	"_id": "8rKnF3wpyod08aef",
+	"name": "Animated Weapon",
+	"type": "heritage",
+	"img": "systems/pf2e/icons/default-icons/heritage.svg",
+	"system": {
+		"slug": "animated-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "CreatureSize",
+				"value": "tiny"
+			}
+		],
+		"ancestry": {
+			"name": "Intelligent Weapon",
+			"slug": "intelligent-weapon",
+			"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-ancestries.Item.8SKk106Ha99dXs3N"
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"description": {
+			"value": "<p>You wield yourself and move on your own. You're a Tiny weapon, or a Small weapon if at least 3 feet long. You float slightly above the ground (you aren't flying and needn't Fly); you still occupy a ground-level space, can avoid pressure plates, and can land on purpose or be forced prone. You still take falling damage.</p><p>You have no body: you can't Interact (except with your own weapon body), wield or hold anything, and have no unarmed attacks by default. You can Invest worn items, which meld into your body as artistic decoration while invested and conscious. You can store items inside yourself the same way, and can meld and provide your own ammunition. You can also install armor plating with the price and statistics of armor; invested armor becomes protective plating with the same effects.</p><p>Animated weapons do best as two-handed weapons and struggle with classes that need a free hand.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!8rKnF3wpyod08aef"
+}

@@ -1,0 +1,36 @@
+{
+	"_id": "7axhL3jvHPm3S8dG",
+	"name": "Symbiotic Weapon",
+	"type": "heritage",
+	"img": "systems/pf2e/icons/default-icons/heritage.svg",
+	"system": {
+		"slug": "symbiotic-weapon",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"ancestry": {
+			"name": "Intelligent Weapon",
+			"slug": "intelligent-weapon",
+			"uuid": "Compendium.intelligent-weapons-ancestry-pf2e.iw-ancestries.Item.8SKk106Ha99dXs3N"
+		},
+		"traits": {
+			"rarity": "common",
+			"value": []
+		},
+		"description": {
+			"value": "<p>You have an unremarkable, combat-neophyte wielder you've bonded with, who may or may not know you're intelligent. Choose a Small or Medium ancestry that can wield you. You act through them and share life force, using your own statistics; roleplay weapon and wielder separately. The body needs normal air, food, water and sleep, though you only rest for 2 hours.</p><p>You can't normally use the wielder ancestry's base benefits (such as darkvision), but as a single action with the concentrate trait you can use all of them for 1 round (repeatable as an exploration activity).</p><p>Choose an Intelligence, Wisdom or Charisma-based skill and a Lore skill. You gain Additional Lore for the Lore skill and become trained in the other skill, but the wielder uses and improves them. Symbiotic weapons rarely enter inanimate mode, as it leaves the wielder defenseless.</p><p>Talk with your group before playing a weapon that suppresses a sapient creature's will.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!7axhL3jvHPm3S8dG"
+}

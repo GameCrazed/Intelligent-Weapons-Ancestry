@@ -1,0 +1,53 @@
+{
+	"_id": "iXgSp6FxAqFLM5AH",
+	"name": "Reject the Unworthy",
+	"type": "feat",
+	"img": "systems/pf2e/icons/default-icons/feat.svg",
+	"system": {
+		"slug": "reject-the-unworthy",
+		"publication": {
+			"title": "Battlezoo Ancestries: Classic Creatures",
+			"authors": "Mark Seifter / Roll For Combat",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"category": "ancestry",
+		"level": {
+			"value": 1
+		},
+		"actionType": {
+			"value": "action"
+		},
+		"actions": {
+			"value": 1
+		},
+		"traits": {
+			"rarity": "common",
+			"value": [
+				"activation",
+				"intelligent-weapon"
+			]
+		},
+		"prerequisites": {
+			"value": []
+		},
+		"frequency": {
+			"max": 1,
+			"per": "round"
+		},
+		"onlyLevel1": false,
+		"maxTakable": 1,
+		"description": {
+			"value": "<p>Even in inanimate mode, you can punish those who dare wield you. The creature wielding you in inanimate mode (or wielding you if you're an item) takes 1d6 force damage per level you have, with a basic Will save. You can choose to force them to drop you.</p>"
+		}
+	},
+	"effects": [],
+	"flags": {},
+	"folder": null,
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"_key": "!items!iXgSp6FxAqFLM5AH"
+}
